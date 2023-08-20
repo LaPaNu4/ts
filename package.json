@@ -1,0 +1,27 @@
+{
+  "script": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "name": "ts-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaPaNu4/ts-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaPaNu4/ts-practice/issues"
+  },
+  "homepage": "https://github.com/LaPaNu4/ts-practice#readme",
+  "description": ""
+}
